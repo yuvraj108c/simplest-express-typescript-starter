@@ -22,12 +22,14 @@ npm install
 ```bash
 npm run dev
 ```
+
 ## Build project
 
 ```bash
 npm run build
 ```
-## Run build
+
+## Run server
 
 ```bash
 npm start
