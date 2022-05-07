@@ -1,7 +1,8 @@
 # The Simplest Express-Typescript Starter
 
-- Modify-as-you-go: No file structure or dependencies enforced
-- Supports live reload for development
+- Modify-as-you-go: No complex file structure or dependencies enforced
+- Supports live reload for fast development
+- Supports environment variables
 - Perfect for simple projects & applets
 
 ## Clone the repository
