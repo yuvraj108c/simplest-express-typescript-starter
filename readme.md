@@ -22,8 +22,12 @@ npm install
 ```bash
 npm run dev
 ```
+## Build project
 
-## Run in production mode
+```bash
+npm run build
+```
+## Run build
 
 ```bash
 npm start
