@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The simplest express-typescript starter",
   "scripts": {
+    "main": "dist/server.js",
     "start": "node dist/server.js",
     "build": "tsc -p .",
     "dev": "nodemon src/server.ts"
